@@ -1,1 +1,2 @@
-new app after clone my project
+var text = "new app after clone my project"
+console.log(text);
